@@ -95,8 +95,8 @@ The Policy Navigator Agent is a comprehensive RAG (Retrieval-Augmented Generatio
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/policy-navigator-agent.git
-cd policy-navigator-agent
+git clone https://github.com/mohamedhameddirac/Policy-Navigator-Agent.git
+cd Policy-Navigator-Agent
 ```
 
 ### 2. Install Dependencies
@@ -386,9 +386,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Developer**: [Your Name]
+**Developer**: Mohamed Hamed
 **Email**: [Your Email]
-**Project Link**: [https://github.com/YOUR_USERNAME/policy-navigator-agent](https://github.com/YOUR_USERNAME/policy-navigator-agent)
+**Project Link**: [https://github.com/mohamedhameddirac/Policy-Navigator-Agent](https://github.com/mohamedhameddirac/Policy-Navigator-Agent)
 
 ---
 
